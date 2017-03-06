@@ -1,7 +1,7 @@
 #ifndef WIDGET_H
 #define WIDGET_H
 
-#include <QtGui/QWidget>
+#include <QWidget>
 
 #if defined(LIBWIDGET_BUILD)
 #  define WIDGET_API Q_DECL_EXPORT

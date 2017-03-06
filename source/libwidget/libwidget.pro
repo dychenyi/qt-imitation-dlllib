@@ -1,3 +1,5 @@
+QT += widgets core gui
+
 TEMPLATE = lib
 CONFIG += widget-buildlib
 include(libwidget.pri)

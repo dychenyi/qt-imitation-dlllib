@@ -1,3 +1,5 @@
+
+QT += widgets core gui
 TEMPLATE=app
 include(../libwidget/libwidget.pri)
 DESTDIR = $$PROJECT_BINDIR
